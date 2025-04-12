@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atif-eng
+- 👋 Hi, I’m Muhammad Atif
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: Math
