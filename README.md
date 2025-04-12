@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Atif
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- ⚡ Fun fact: Math
+- ⚡ Fun fact: 
 
 <!---
 Atif-eng/Atif-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
