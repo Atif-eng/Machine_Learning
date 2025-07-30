@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Atif
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML
 - ⚡ Fun fact: 
 
 <!---
