@@ -26,36 +26,3 @@ This repository contains a collection of my Machine Learning projects and experi
 ├── 📁 Recommender_Systems
 │   └── Movie_Recommendation_Engine.ipynb
 └── 📄 README.md
-
-🛠 Tech Stack
-Language: Python
-
-Core Libraries: pandas, numpy
-
-Visualization: matplotlib, seaborn, plotly
-
-Machine Learning: scikit-learn, xgboost, lightgbm
-
-Model Storage: pickle, joblib
-
-🧠 Algorithms & Techniques Explored
-This portfolio demonstrates proficiency in the following areas:
-
-1. Supervised Learning
-Regression: Linear Regression, Ridge/Lasso, Support Vector Regression (SVR).
-
-Classification: Logistic Regression, Decision Trees, SVM, KNN, Naive Bayes.
-
-Ensemble Methods: Random Forest, Gradient Boosting (XGBoost, CatBoost).
-
-2. Unsupervised Learning
-Clustering: K-Means, Hierarchical Clustering, DBSCAN.
-
-Dimensionality Reduction: Principal Component Analysis (PCA), t-SNE.
-
-3. Model Evaluation & Tuning
-Metrics: Confusion Matrix, ROC-AUC, RMSE, MAE, R-Squared.
-
-Tuning: GridSearchCV, RandomizedSearchCV.
-
-Validation: K-Fold Cross-Validation.
